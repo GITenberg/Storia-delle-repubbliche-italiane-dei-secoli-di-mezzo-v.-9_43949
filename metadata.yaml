@@ -1,0 +1,38 @@
+_repo: Storia-delle-repubbliche-italiane-dei-secoli-di-mezzo-v.-9_43949
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43949-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sismondi, J.-C.-L. Simonde de (Jean-Charles-Léonard Simonde)
+    aliases:
+    - Sismondi, J.-C.-L. Simonde de (Jean-Charles-Leonard Simonde)
+    - Sismondi, J. C. L. Simondo
+    - Simonde de Sismondi, Jean-Charles-Léonard
+    - Sismonde, Sismondi J. C. L. (Jean-Charles-Léonard)
+    - Sismondi, Jean-Charles-Léonard Simonde de
+    - Sismondi, Sismondo
+    - Simonde, Jean-Charles-Léonard
+    - Sismondi, I.-C.-L. de (Jean-Charles-Léonard)
+    - De Sismondi, J.-C.-L. Simonde (Jean-Charles-Léonard Simonde)
+    birthdate: 1773
+    deathdate: 1842
+    gutenberg_agent_id: '42367'
+    url: http://www.gutenberg.org/2009/agents/42367
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Charles_L%C3%A9onard_de_Sismondi
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2013-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43949'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History'
+- !lcc 'DG'
+title: Storia delle repubbliche italiane dei secoli di mezzo, v. 09 (of 16)
+url: http://www.gutenberg.org/ebooks/43949
