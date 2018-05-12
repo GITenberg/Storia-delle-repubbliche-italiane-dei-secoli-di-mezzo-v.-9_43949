@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42367
     wikipedia: http://en.wikipedia.org/wiki/Jean_Charles_L%C3%A9onard_de_Sismondi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43949#Storia-delle-repubbliche-italiane-dei-secoli-di-mezzo-v.-9
 gutenberg_bookshelf: IT Storia
 gutenberg_issued: '2013-10-14'
 gutenberg_type: Text
